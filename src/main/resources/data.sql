@@ -7,3 +7,5 @@ insert into product(title,description) values('formal shirt','blue in color');
 insert into product(title,description) values('formal shirt','white in color');
 insert into product(title,description) values('formal shirt','blue in color');
 insert into product(title,description) values('formal shirt','white in color');
+insert into product(title,description) values('formal shirt','blue in color');
+insert into product(title,description) values('formal shirt','white in color');
