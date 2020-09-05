@@ -5,3 +5,5 @@ insert into product(title,description) values('skirt','floral skirt');
 insert into product(title,description) values('tee-shirt','full sleeves');
 insert into product(title,description) values('formal shirt','blue in color');
 insert into product(title,description) values('formal shirt','white in color');
+insert into product(title,description) values('formal shirt','blue in color');
+insert into product(title,description) values('formal shirt','white in color');
